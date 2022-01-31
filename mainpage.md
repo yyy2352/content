@@ -1,5 +1,4 @@
-<style> body {
-  background-image: url(https://c.tenor.com/h186rNzsF8EAAAAC/changing-colors.gif);
+<style> body {background-image: url(https://c.tenor.com/h186rNzsF8EAAAAC/changing-colors.gif);
   background-repeat: no-repeat; 
   background-size:cover; 
 } </style>
